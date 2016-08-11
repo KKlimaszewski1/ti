@@ -18,7 +18,7 @@ jak przygotować _pull requests_ etc.
 1. Dziemiński Grzegorz
 1. Ignaciuk Jakub
 1. [Kleina Mateusz](https://github.com/moskal91/ti-meteor-zaliczenie). [Pogodowa szafa](http://violet-stallion-189184.nitrousapp.com)
-1. Klimaszewski Karol
+1. [Klimaszewski Karol](https://github.com/KKlimaszewski1/techniki_egzamin)
 1. Kozyra Damian
 1. Marzec Maciej
 1. Mrotek Remigiusz
